@@ -1,0 +1,1 @@
+# Estudando testes automatizados com Ruby
