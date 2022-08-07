@@ -1,4 +1,4 @@
-nome = "Tamires" 
+nome = "Tamires Manduca" 
 idade = 29 
 legal = true
 
