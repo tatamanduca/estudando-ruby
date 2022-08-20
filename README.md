@@ -1,1 +1,1 @@
-# Estudando testes automatizados com Ruby
+# Praticando com Ruby
